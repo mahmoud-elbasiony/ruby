@@ -65,7 +65,9 @@ def sum_array(arr)
 end
 
 p sum_array([17])
-
+# 8 bouns
+# https://leetcode.com/user4259Lo/
+# https://www.hackerrank.com/profile/mnadadhur
 # def isBalanced(s)
 #     # Write your code here
 #     stack=[]
