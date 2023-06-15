@@ -57,14 +57,14 @@ def sum_array(arr)
     sum=0
     for i in arr
         if i==17
-            next
+            break
         end
         sum+=i
     end
     sum
 end
 
-p sum_array([17])
+p sum_array([1,2,3,17,4,5])
 # 8 bouns
 # https://leetcode.com/user4259Lo/
 # https://www.hackerrank.com/profile/mnadadhur
