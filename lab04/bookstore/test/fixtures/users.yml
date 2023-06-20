@@ -2,12 +2,12 @@
 
 one:
   id: 1
-  name: ahmed
-  email: ahmed@test.com
+  name: mahmoud
+  email: mahmoud@test.com
   encrypted_password: test
 
 two:
   id: 2
-  name: ahmed2
-  email: ahmed2@test.com
+  name: mahmoud2
+  email: mahmoud2@test.com
   encrypted_password: test2
